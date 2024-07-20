@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\bin\Debug\net8.0\ReflectionPOC.exe
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\bin\Debug\net8.0\ReflectionPOC.deps.json
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\bin\Debug\net8.0\ReflectionPOC.runtimeconfig.json
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\bin\Debug\net8.0\ReflectionPOC.dll
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\bin\Debug\net8.0\ReflectionPOC.pdb
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.AssemblyInfo.cs
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.dll
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\refint\ReflectionPOC.dll
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.pdb
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ReflectionPOC.genruntimeconfig.cache
+C:\Users\sreerag.babu\Documents\C# Projects\ReflectionPOC\obj\Debug\net8.0\ref\ReflectionPOC.dll
